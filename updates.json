@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "OtakuStream Goes Live!",
+    "category": "announcement",
+    "date": "2026-09-25",
+    "description": "OtakuStream officially goes live! Welcome to a new destination for anime, movies, and TV shows.",
+    "version": "1.0.0",
+    "images": []
+  },
+  {
+    "id": 2,
+    "title": "Polished Version of OtakuStream Becomes Active",
+    "category": "improvement",
+    "date": "2026-10-24",
+    "description": "A more polished version of OtakuStream becomes active, bringing an improved overall experience.",
+    "version": "2.0.0",
+    "images": []
+  },
+  {
+    "id": 3,
+    "title": "Server Fixes, Stats & Refined Personalization",
+    "category": "improvement",
+    "date": "2026-11-15",
+    "description": "Fixed server-related issues, introduced the stats feature, and refined the history and watchlist enrichment logic.",
+    "version": "2.0.1",
+    "images": []
+  },
+  {
+    "id": 4,
+    "title": "Announcements Feature Added",
+    "category": "feature",
+    "date": "2026-11-16",
+    "description": "Introduced the Announcements feature to OtakuStream, making it easier to keep users informed about site updates and important news.",
+    "version": "2.1.0",
+    "images": []
+  }
+]
