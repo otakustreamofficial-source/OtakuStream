@@ -36,7 +36,7 @@
     "description": "Introduced the Announcements feature to OtakuStream, making it easier to keep users informed about site updates and important news.",
     "version": "2.1.0",
     "images": []
-  }
+  },
   {
   "id": 5,
   "title": "Performance, Image Loading & HeroBanner Improvements",
