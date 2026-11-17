@@ -37,4 +37,14 @@
     "version": "2.1.0",
     "images": []
   }
+  {
+  "id": 5,
+  "title": "Performance, Image Loading & HeroBanner Improvements",
+  "category": "improvement",
+  "date": "2026-11-17",
+  "time": "14:27:32+05:30",
+  "description": "Improved overall performance by reducing unnecessary TMDB detail requests, refining HeroBanner content selection, and optimizing image loading priorities. Updated the Home HeroBanner to prioritize movies and TV shows while placing anime entries last, with a maximum of 12 slides. Refined backdrop and logo preloading, reduced unnecessary image processing, and updated image quality configuration for more efficient image delivery.",
+  "version": "2.1.1",
+  "images": []
+}
 ]
