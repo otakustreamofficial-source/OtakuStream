@@ -45,5 +45,16 @@
     "description": "Improved overall performance by reducing unnecessary TMDB detail requests, refining HeroBanner content selection, and optimizing image loading priorities. Updated the Home HeroBanner to prioritize movies and TV shows while placing anime entries last, with a maximum of 12 slides. Refined backdrop and logo preloading, reduced unnecessary image processing, and updated image quality configuration for more efficient image delivery.",
     "version": "2.1.1",
     "images": []
+  },
+  {
+    "id": 6,
+    "title": "Password Recovery & Account Security Improvements",
+    "category": "feature",
+    "date": "2026-11-19",
+    "description": "Introduced an email-based password recovery system using six-digit temporary recovery codes delivered through Gmail SMTP. Added IP-based rate limiting with a five-minute cooldown to reduce repeated recovery requests. Updated the account recovery page with an option to request a new temporary code, clearer recovery instructions, and improved error handling for rate-limited requests. Added reminders encouraging users to save their permanent recovery codes after regaining account access, along with a friendly reminder to use email requests responsibly.",
+    "version": "2.2.0",
+    "images": [
+      "https://otakustream.pages.dev/email.gif"
+    ]
   }
 ]
