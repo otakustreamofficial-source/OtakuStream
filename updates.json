@@ -65,5 +65,16 @@
   "description": "Fixed a TypeScript compatibility issue between TMDB season summaries and the TVSeasons component. Introduced a dedicated TmdbSeasonInput structural type in TVSeasons.logic.ts, allowing TMDB season data to be accepted without requiring an incompatible string index signature. Preserved compatibility with existing MediaRecord data and retained the existing season and episode handling logic.",
   "version": "2.2.1",
   "images": []
+},
+  {
+  "id": 8,
+  "title": "Episode & Season Watch Tracking Improvements",
+  "category": "feature",
+  "date": "2026-11-22",
+  "description": "Added the ability to mark individual episodes as watched and mark an entire season as watched. Introduced new API routes to support watch-status updates and refined the database handling logic to efficiently process large entries, improving reliability and performance when working with extensive watch-history data.",
+  "version": "2.3.0",
+  "images": [
+    "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFsNWp1NTdtMnZkajh4cjZicmtwZGY2c2JuaTB1djV5amw3d2psbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8JCIWBz8oRRLZmZhNn/giphy.gif"
+  ]
 }
 ]
