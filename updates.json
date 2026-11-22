@@ -62,7 +62,7 @@
   "title": "TV Seasons Type Safety & TMDB Compatibility Fix",
   "category": "improvement",
   "date": "2026-11-22",
-  "description": "Fixed a TypeScript compatibility issue between TMDB season summaries and the TVSeasons component. Introduced a dedicated TmdbSeasonInput structural type in TVSeasons.logic.ts, allowing TMDB season data to be accepted without requiring an incompatible string index signature. Preserved compatibility with existing MediaRecord data and retained the existing season and episode handling logic. Prepared complete replacement files for TVSeasons.tsx and TVSeasons.logic.ts.",
+  "description": "Fixed a TypeScript compatibility issue between TMDB season summaries and the TVSeasons component. Introduced a dedicated TmdbSeasonInput structural type in TVSeasons.logic.ts, allowing TMDB season data to be accepted without requiring an incompatible string index signature. Preserved compatibility with existing MediaRecord data and retained the existing season and episode handling logic.",
   "version": "2.2.1",
   "images": []
 }
