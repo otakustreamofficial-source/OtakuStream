@@ -76,5 +76,23 @@
   "images": [
     "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFsNWp1NTdtMnZkajh4cjZicmtwZGY2c2JuaTB1djV5amw3d2psbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8JCIWBz8oRRLZmZhNn/giphy.gif"
   ]
+},
+  {
+  "id": 9,
+  "title": "Watchlist & Continue Watching Metadata Cache Improvements",
+  "category": "improvement",
+  "date": "2026-11-24",
+  "description": "Refined the metadata enrichment and caching logic for Continue Watching and Watchlist entries. Improved cache handling to prioritize items displayed in the UI, ensuring visible entries receive metadata enrichment and are stored for faster subsequent loading. Optimized cache management to improve consistency and reduce unnecessary metadata requests.",
+  "version": "2.3.1",
+  "images": []
+},
+    {
+  "id": 10,
+  "title": "Removed Personalized Feed and Optimized the site",
+  "category": "improvement",
+  "date": "2026-11-24",
+  "description": "The feature of Personalized Feed is removed. Few redundant variables too were removed from the site and logic was fine tuned to improve performance and stability.",
+  "version": "2.3.2",
+  "images": [ "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHc4eHY0bWhmMmh2empzZmIzZDI1YnBzZm5tZm8zdHl1cnBuZ2MyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GaLDP1aQP44tb4y63I/giphy.gif" ]
 }
 ]
