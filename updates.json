@@ -94,5 +94,14 @@
   "description": "The feature of Personalized Feed is removed. Few redundant variables too were removed from the site and logic was fine tuned to improve performance and stability.",
   "version": "2.3.2",
   "images": [ "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNwa2c0cmtlajFwd3NvaTdzaHMxNmJqYWJwNXRocnhtNjhienhiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2VV9jJyEukCtXVjCCp/giphy.gif" ]
-}
+},
+  {
+  "id":11,
+  "title": "Minor improvement",
+  "category": "improvement",
+  "date": "2026-11-28",
+  "description": "Reduced overlays on episodes and season cards and improved image rendering and use of wsrv.nl encouraged more",
+  "version": "2.3.3",
+  "images": [ "https://media1.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWp3bWx4YnRrNDY2YjBwaW5mbDZtNnRtcGo4YzBvYXB1ZmNqNjBlbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Fr4YbVr19VpTPrn3bM/200.webp" ]
+  }
 ]
